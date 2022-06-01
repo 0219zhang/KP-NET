@@ -1,0 +1,250 @@
+pair_id,Tumor_Sample_Barcode,patient_id,cancer_type,age_start_io,sex,RECIST,os_days,os_censor,pfs_days,pfs_censor,histology,subtype,smoker,pack_years,p16_ISH,va_response,recist_response,roh_response,drug_type,other_concurrent_therapy
+AC-DFCI_AC_PD1-1-TP-NT-SM-9LRI9-SM-9LRIA,AC-DFCI_AC_PD1-1-Tumor-SM-9LRI9,AC_PD1-1,Anal,NA,MALE,CR,821,1,821,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+AL4602_T_N,AL4602_T,AL4602,Lung,59,MALE,SD,255,1,255,1,adenocarcinoma,,Former,34,,no clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+AU5884_T_N,AU5884_T,AU5884,Lung,64,MALE,PD,54,1,54,0,adenocarcinoma,,Former,10,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BL3403_T_N,BL3403_T,BL3403,Lung,73,FEMALE,SD,197,1,197,0,adenocarcinoma,,Former,43.75,,no clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLADDER-15330_CCPM_0700629-TM-NB-SM-AVI1C-SM-AVHZJ,BLADDER-15330_CCPM_0700629-Tumor-SM-AVI1C,BLADDER-15330_CCPM_0700629,Bladder,69,MALE,PR,106,1,54,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLADDER-15330_CCPM_0700691-TM-NB-SM-AVI13-SM-AVHZL,BLADDER-15330_CCPM_0700691-Tumor-SM-AVI13,BLADDER-15330_CCPM_0700691,Bladder,57,MALE,SD,174,0,123,0,,,,NA,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLADDER-15330_CCPM_0700692-TM-NB-SM-AVI11-SM-AVHZM,BLADDER-15330_CCPM_0700692-Tumor-SM-AVI11,BLADDER-15330_CCPM_0700692,Bladder,68,MALE,SD,272,0,119,0,,,,NA,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLADDER-15330_CCPM_0700694-TM-NB-SM-AVI16-SM-AVHZK,BLADDER-15330_CCPM_0700694-Tumor-SM-AVI16,BLADDER-15330_CCPM_0700694,Bladder,60,MALE,PR,287,1,146,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA_immunotherapy_responder-DFCI_11-104_011-TP-NB-SM-5PA3E-SM-4D5IX,BLCA_immunotherapy_responder-DFCI_11-104_011-Tumor-SM-5PA3E,BLCA_immunotherapy_responder-DFCI_11-104_011,Bladder,NA,MALE,CR,1348,1,591,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-001-TP-NB-SM-CUCGA-SM-CUCGU,BLCA-001-Tumor-SM-CUCGA,BLCA-001,Bladder,NA,MALE,PD,96,0,32,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-002-TP-NB-SM-CUCGB-SM-CUCGV,BLCA-002-Tumor-SM-CUCGB,BLCA-002,Bladder,NA,MALE,SD,508,1,508,1,,,,NA,,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-003-TP-NB-SM-CUCGC-SM-CUCGW,BLCA-003-Tumor-SM-CUCGC,BLCA-003,Bladder,NA,MALE,PD,74,0,29,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-005-TP-NB-SM-CUCGE-SM-CUCGY,BLCA-005-Tumor-SM-CUCGE,BLCA-005,Bladder,NA,FEMALE,PR,503,1,503,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-006-TP-NB-SM-CUCGF-SM-CUCGZ,BLCA-006-Tumor-SM-CUCGF,BLCA-006,Bladder,NA,MALE,PR,368,0,165,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+BLCA-007-TP-NB-SM-CUCGH-SM-CUCH1,BLCA-007-Tumor-SM-CUCGH,BLCA-007,Bladder,NA,FEMALE,CR,396,1,396,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-008-TP-NB-SM-CUCGI-SM-CUCH2,BLCA-008-Tumor-SM-CUCGI,BLCA-008,Bladder,NA,FEMALE,PD,105,0,105,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-009-TP-NB-SM-CUCGJ-SM-CUCH3,BLCA-009-Tumor-SM-CUCGJ,BLCA-009,Bladder,NA,MALE,PD,142,0,123,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-010-TP-NB-SM-CUCGK-SM-CUCH4,BLCA-010-Tumor-SM-CUCGK,BLCA-010,Bladder,NA,MALE,PR,490,1,490,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-011-TP-NB-SM-CUCGL-SM-CUCH5,BLCA-011-Tumor-SM-CUCGL,BLCA-011,Bladder,NA,MALE,PD,169,0,63,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-012-TP-NB-SM-CUCGM-SM-CUCH6,BLCA-012-Tumor-SM-CUCGM,BLCA-012,Bladder,NA,MALE,PR,504,1,479,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-014-TP-NB-SM-CUCGO-SM-CUCH8,BLCA-014-Tumor-SM-CUCGO,BLCA-014,Bladder,NA,FEMALE,PD,360,1,60,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-015-TP-NB-SM-CUCGP-SM-CUCH9,BLCA-015-Tumor-SM-CUCGP,BLCA-015,Bladder,NA,MALE,PD,95,0,69,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-016-TP-NB-SM-CUCGQ-SM-CUCHA,BLCA-016-Tumor-SM-CUCGQ,BLCA-016,Bladder,NA,FEMALE,PR,744,1,744,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM01-TP-NB-SM-79XD9-SM-7AABJ,BLCA-IM01-Tumor-SM-79XD9,IM_01,Bladder,67,MALE,PD,213,0,85,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM04-TP-NT-SM-79XDB-SM-79XDC,BLCA-IM04-Tumor-SM-79XDB,IM_04,Bladder,55,FEMALE,SD,195,0,170,0,,,,NA,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM06-TP-NB-SM-79XDL-SM-9QSPW,BLCA-IM06-Tumor-SM-79XDL,IM_06,Bladder,58,FEMALE,PD,730,1,58,0,,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM07-TP-NB-SM-79XDD-SM-7AABP,BLCA-IM07-Tumor-SM-79XDD,IM_07,Bladder,55,MALE,PR,496,1,496,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM09-TP-NB-SM-79XDF-SM-7AABN,BLCA-IM09-Tumor-SM-79XDF,IM_09,Bladder,74,FEMALE,PR,663,0,441,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM10-TP-NB-SM-79XDG-SM-9QSPX,BLCA-IM10-Tumor-SM-79XDG,IM_10,Bladder,72,MALE,CR,468,0,356,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM11-TP-NT-SM-79XDH-SM-79XDI,BLCA-IM11-Tumor-SM-79XDH,IM_11,Bladder,68,MALE,PR,411,0,170,0,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+BLCA-IM12-TP-NB-SM-9RN2L-SM-9HC1F,BLCA-IM12-Tumor-SM-9RN2L,IM_12,Bladder,79,MALE,PD,143,0,85,0,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+CA9903_T_N,CA9903_T,CA9903,Lung,57,MALE,PR,441,1,441,0,adenocarcinoma,,Former,80,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+CANSEQU01-0100425-TP-NB-SM-6ZL67-SM-6ZL66,CANSEQU01-0100425-Tumor-SM-6ZL67,CANSEQU01-0100425,Lung,NA,FEMALE,PR,735,1,207,0,Adenocarcinoma,,former,45,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+CR0095_T_N,CR0095_T,CR0095,Melanoma,NA,MALE,CR,2080.5,1,455,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR04885_T_N,CR04885_T,CR04885,Melanoma,NA,FEMALE,CR,766.5,1,595,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR06670_T_N,CR06670_T,CR06670,Melanoma,NA,FEMALE,CR,1350.5,0,1176,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR1509_T_N,CR1509_T,CR1509,Melanoma,NA,FEMALE,CR,1642.5,1,504,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR22640_T_N,CR22640_T,CR22640,Melanoma,NA,MALE,CR,1569.5,1,1512,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR3665_T_N,CR3665_T,CR3665,Melanoma,NA,MALE,CR,985.5,1,336,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR6126_T_N,CR6126_T,CR6126,Melanoma,NA,FEMALE,CR,707,1,707,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR6161_T_N,CR6161_T,CR6161,Melanoma,NA,MALE,CR,952,0,952,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR9306_T_N,CR9306_T,CR9306,Melanoma,NA,MALE,CR,1934.5,1,294,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CR9699_T_N,CR9699_T,CR9699,Melanoma,NA,MALE,CR,1606,1,364,NA,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+CU9061_T_N,CU9061_T,CU9061,Lung,57,MALE,SD,121,1,121,1,squamous cell carcinoma,,Former,39,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+DFCI_MM_1-TP-NB-SM-BZRJ8-SM-BZRJC,DFCI_MM_1-Tumor-SM-BZRJ8,DFCI_MM_1,Melanoma,NA,FEMALE,CR,600,1,548,0,mucosal,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+DFCI_MM_2-TP-NB-SM-BZRJA-SM-BZRJD,DFCI_MM_2-Tumor-SM-BZRJA,DFCI_MM_2,Melanoma,NA,FEMALE,CR,365,1,365,0,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+DI6359_T_N,DI6359_T,DI6359,Lung,61,FEMALE,PR,298,1,298,1,adenocarcinoma,,Current,60,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+DM123062_T_N,DM123062_T,DM123062,Lung,50,MALE,PD,57,1,57,0,adenocarcinoma,,Never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+FR9547_T_N,FR9547_T,FR9547,Lung,65,FEMALE,PR,127,1,127,1,adenocarcinoma,,Current,25,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+GR4788_T_N,GR4788_T,GR4788,Lung,59,MALE,PD,57,1,57,0,squamous cell carcinoma,,Current,45,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+HE3202_T_N,HE3202_T,HE3202,Lung,63,FEMALE,PR,447,1,447,1,adenocarcinoma,,Former,58,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-186-TP-NB-SM-AXGDN-SM-ADP7L,HNSCC-186-Tumor-SM-AXGDN,HNSCC-186,HNSCC,NA,MALE,SD,620,0,596,0,base of tongue,poorly differentiated,never,0,unknown,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-215-TP-NB-SM-CK9VX-SM-AV34O,HNSCC-215-Tumor-SM-CK9VX,HNSCC-215,HNSCC,NA,MALE,PD,266,0,65,0,tonsil,poorly differentiated,never,0,positive,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-238-TP-NB-SM-AXGF5-SM-ADP7O,HNSCC-238-Tumor-SM-AXGF5,HNSCC-238,HNSCC,NA,MALE,PR,460,1,315,0,tonsil,moderately differentiated,never,0,positive,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-239-TP-NB-SM-AXGCS-SM-ADP7K,HNSCC-239-Tumor-SM-AXGCS,HNSCC-239,HNSCC,NA,MALE,SD,402,0,138,0,tonsil,moderately differentiated,yes,30,positive,clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-243-TP-NB-SM-CLFNS-SM-AV34T,HNSCC-243-Tumor-SM-CLFNS,HNSCC-243,HNSCC,NA,MALE,PD,113,1,55,0,tonsil,poorly differentiated,never,0,positive,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+HNSCC-258-TP-NB-SM-AXGAI-SM-ADP7G,HNSCC-258-Tumor-SM-AXGAI,HNSCC-258,HNSCC,NA,MALE,SD,378,1,378,1,nasopharynx,moderately differentiated,yes,11,positive,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-266-TP-NB-SM-CK9YG-SM-AV34S,HNSCC-266-Tumor-SM-CK9YG,HNSCC-266,HNSCC,NA,FEMALE,PD,60,0,39,0,oral tongue,poorly differentiated,never,0,negative,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+HNSCC-287-TP-NB-SM-AXGEI-SM-ADP7M,HNSCC-287-Tumor-SM-AXGEI,HNSCC-287,HNSCC,NA,MALE,PD,71,0,56,0,larynx,moderate to poorly differentiated,yes,11,unknown,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+HNSCC-296-TP-NB-SM-CLFOB-SM-AV34U,HNSCC-296-Tumor-SM-CLFOB,HNSCC-296,HNSCC,NA,MALE,SD,46,0,43,0,oropharynx,poorly differentiated,yes,11,positive,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,yes
+HNSCC-305-TP-NB-SM-CK9XQ-SM-AV34Q,HNSCC-305-Tumor-SM-CK9XQ,HNSCC-305,HNSCC,NA,MALE,SD,149,1,85,0,tonsil,poorly differentiated,never,0,positive,no clinical benefit,stable disease,no clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+HNSCC-306-TP-NB-SM-CK9Y6-SM-AV34R,HNSCC-306-Tumor-SM-CK9Y6,HNSCC-306,HNSCC,NA,MALE,PD,169,1,84,0,tonsil,poorly differentiated,yes,11,positive,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+HNSCC-323-TP-NB-SM-CK9WS-SM-AV34N,HNSCC-323-Tumor-SM-CK9WS,HNSCC-323,HNSCC,NA,MALE,PR,140,1,140,1,oropharynx,moderately differentiated,yes,11,negative,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,yes
+JB112852_T_N,JB112852_T,JB112852,Lung,60,MALE,PD,100,1,100,0,adenocarcinoma,,Never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+KA3947_T_N,KA3947_T,KA3947,Lung,64,FEMALE,SD,246,1,246,0,adenocarcinoma,,Former,52.5,,no clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+LO3793_T_N,LO3793_T,LO3793,Lung,62,FEMALE,SD,106,1,106,0,adenocarcinoma,,Former,6,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LO5004_T_N,LO5004_T,LO5004,Lung,56,FEMALE,SD,191,1,191,0,adenocarcinoma,,Former,8,,no clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+LSD0167_T_N,LSD0167_T,LSD0167,Melanoma,NA,MALE,SD,985.5,1,980,NA,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+LSD2057_T_N,LSD2057_T,LSD2057,Melanoma,NA,FEMALE,SD,1204.5,1,448,NA,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+LSD3484_T_N,LSD3484_T,LSD3484,Melanoma,NA,MALE,SD,1078,1,1078,NA,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+LSD4744_T_N,LSD4744_T,LSD4744,Melanoma,NA,MALE,SD,766.5,1,560,NA,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+LSD6819_T_N,LSD6819_T,LSD6819,Melanoma,NA,MALE,SD,1241,1,469,NA,cutaneous,acral lentiginous,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+LUAD-BS-08-013532-TP-NT-SM-9J2Y1-SM-9J2Y2,LUAD-BS-08-013532-Tumor-SM-9J2Y1,SU2C-1026,Lung,NA,FEMALE,PR,243,0,243,0,Adenocarcinoma,,former,12,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-10-J11656-TP-NT-SM-9J2Y7-SM-9J2Y8,LUAD-BS-10-J11656-Tumor-SM-9J2Y7,SU2C-1022,Lung,NA,MALE,SD,136,0,129,0,Squamous Cell Carcinoma,,current,30,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,yes
+LUAD-BS-10-R22401-TP-NB-SM-9J2XK-SM-9HBZR,LUAD-BS-10-R22401-Tumor-SM-9J2XK,SU2C-1037,Lung,NA,MALE,SD,119,0,52,0,Adenocarcinoma,,former,28,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-11-F1305-TP-NT-SM-9J2XG-SM-9J2XH,LUAD-BS-11-F1305-Tumor-SM-9J2XG,SU2C-1038,Lung,NA,FEMALE,SD,119,0,35,0,Adenocarcinoma,,never,0,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-11-R21845-TP-NT-SM-9J2YH-SM-9J2YI,LUAD-BS-11-R21845-Tumor-SM-9J2YH,SU2C-1039,Lung,NA,FEMALE,SD,1781,1,418,0,Squamous Cell Carcinoma,,former,10,,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-12-R10269-TP-NB-SM-9J2XO-SM-9HBZT,LUAD-BS-12-R10269-Tumor-SM-9J2XO,SU2C-1029,Lung,NA,FEMALE,PR,413,0,143,0,Adenocarcinoma,,current,50,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-12-X27523-TP-NT-SM-9J2Y5-SM-9J2Y6,LUAD-BS-12-X27523-Tumor-SM-9J2Y5,SU2C-1027,Lung,NA,FEMALE,SD,326,0,125,0,Adenocarcinoma,,former,25,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-13-F33496-TP-NB-SM-9J2XU-SM-9HBZX,LUAD-BS-13-F33496-Tumor-SM-9J2XU,SU2C-1030,Lung,NA,FEMALE,SD,205,0,98,0,Adenocarcinoma,,never,0,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-13-J60666-TP-NB-SM-9J2YL-SM-9HBZW,LUAD-BS-13-J60666-Tumor-SM-9J2YL,SU2C-1024,Lung,NA,FEMALE,PR,999,1,999,0,Adenocarcinoma,,former,15,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-13-N35728-TP-NB-SM-9J2XI-SM-9HBZQ,LUAD-BS-13-N35728-Tumor-SM-9J2XI,SU2C-1028,Lung,NA,FEMALE,SD,384,0,194,0,Adenocarcinoma,,former,8,,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-13-X14864-TP-NB-SM-9J2XQ-SM-9HBZU,LUAD-BS-13-X14864-Tumor-SM-9J2XQ,SU2C-1034,Lung,NA,MALE,SD,176,0,170,0,NSCLC NOS,,current,30,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-14-G65174-TP-NT-SM-9J2YF-SM-9J2YG,LUAD-BS-14-G65174-Tumor-SM-9J2YF,SU2C-1025,Lung,NA,FEMALE,PD,39,0,39,0,Small Cell Lung Cancer,,current,45,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+LUAD-BS-14-J45174-TP-NT-SM-9J2YJ-SM-9J2YK,LUAD-BS-14-J45174-Tumor-SM-9J2YJ,SU2C-1021,Lung,NA,FEMALE,PD,757,1,40,0,Adenocarcinoma,,never,0,,long-term survival,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUAD-BS-14-N19784-TP-NT-SM-9J2XW-SM-9J2XX,LUAD-BS-14-N19784-Tumor-SM-9J2XW,SU2C-1035,Lung,NA,MALE,SD,818,0,126,0,Adenocarcinoma,,former,30,,clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+LUNG-2630-TP-NB-SM-CLFOY-SM-AV34W,LUNG-2630-Tumor-SM-CLFOY,LUNG-2630,Lung,NA,MALE,SD,472,0,233,0,adenocarcinoma,,former ,40,,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+Lung-DFCI-11-104-009-TM-NB-SM-5YS7O-SM-5YS7P,Lung-DFCI-11-104-009-Tumor-SM-5YS7O,DFCI-11-104,Lung,57,MALE,CR,660,1,660,1,adenocarcinoma,,Current,40,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+M4945_T_N,M4945_T,M4945,Lung,66,MALE,PR,444,1,444,1,adenocarcinoma,,Former,40,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+MA7027_T_N,MA7027_T,MA7027,Lung,56,MALE,PD,54,1,54,0,adenocarcinoma,,Former,37.5,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+MEL-582186-TP-NB-SM-CN21Q-SM-CJP7T,MEL-582186-Tumor-SM-CN21Q,MEL-582186,Melanoma,NA,FEMALE,PR,415,1,323,0,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+MEL-587761-TP-NB-SM-CN1ZV-SM-CJP7Q,MEL-587761-Tumor-SM-CN1ZV,MEL-587761,Melanoma,NA,MALE,SD,584,1,186,0,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+MEL-650366-TP-NB-SM-CN221-SM-CJP7U,MEL-650366-Tumor-SM-CN221,MEL-650366,Melanoma,NA,FEMALE,PD,794,1,42,0,cutaneous,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+MEL-682321-TP-NB-SM-CN21G-SM-CJP7S,MEL-682321-Tumor-SM-CN21G,MEL-682321,Melanoma,NA,FEMALE,PR,447,1,447,1,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4 + anti-PD-1/PD-L1,no
+MEL-IPI_Pat02-TP-NB-SM-4DJZX-SM-4NFU4,MEL-IPI_Pat02-Tumor-SM-4DJZX,Pat02,Melanoma,42,FEMALE,SD,1632,1,1254,1,occult,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat03-TP-NB-SM-4DJZY-SM-4NFU5,MEL-IPI_Pat03-Tumor-SM-4DJZY,Pat03,Melanoma,61,FEMALE,PD,100,0,76,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat04-TP-NB-SM-4DJZZ-SM-4NFU6,MEL-IPI_Pat04-Tumor-SM-4DJZZ,Pat04,Melanoma,71,MALE,PR,987,1,646,1,cutaneous,nodular,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat06-TP-NB-SM-4DK12-SM-4NFU8,MEL-IPI_Pat06-Tumor-SM-4DK12,Pat06,Melanoma,33,MALE,PD,161,0,77,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat07-TP-NB-SM-4DK13-SM-4NFU9,MEL-IPI_Pat07-Tumor-SM-4DK13,Pat07,Melanoma,35,MALE,SD,1050,1,721,1,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat08-TP-NB-SM-4DK14-SM-4NFUA,MEL-IPI_Pat08-Tumor-SM-4DK14,Pat08,Melanoma,73,MALE,PD,140,0,73,0,mucosal,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat100-TP-NT-SM-53U2D-SM-53U4M,MEL-IPI_Pat100-Tumor-SM-53U2D,Pat100,Melanoma,71,MALE,PD,360,0,111,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat101-TP-NT-SM-4CU6O-SM-53U4N,MEL-IPI_Pat101-Tumor-SM-4CU6O,Pat101,Melanoma,75,MALE,PD,288,0,77,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat103-TP-NT-SM-4CU6Q-SM-53U4P,MEL-IPI_Pat103-Tumor-SM-4CU6Q,Pat103,Melanoma,70,MALE,PR,1048,0,969,0,occult,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat104-TP-NT-SM-4CU6R-SM-53U4Q,MEL-IPI_Pat104-Tumor-SM-4CU6R,Pat104,Melanoma,45,FEMALE,SD,237,0,237,0,cutaneous,,,NA,,no clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat105-TP-NT-SM-4CU6S-SM-53U4R,MEL-IPI_Pat105-Tumor-SM-4CU6S,Pat105,Melanoma,41,MALE,PR,1047,1,690,1,cutaneous,nodular,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat106-TP-NT-SM-4CU6T-SM-4MGPK,MEL-IPI_Pat106-Tumor-SM-4CU6T,Pat106,Melanoma,43,FEMALE,PD,250,0,137,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat11-TP-NB-SM-4DK17-SM-4NFUD,MEL-IPI_Pat11-Tumor-SM-4DK17,Pat11,Melanoma,67,MALE,PD,790,1,126,0,occult,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat110-TP-NT-SM-4CU6X-SM-4MGPO,MEL-IPI_Pat110-Tumor-SM-4CU6X,Pat110,Melanoma,76,MALE,PD,320,0,73,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat111-TP-NT-SM-4CU6Y-SM-4MGPP,MEL-IPI_Pat111-Tumor-SM-4CU6Y,Pat111,Melanoma,84,MALE,PD,618,0,467,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat113-TP-NT-SM-53U2Q-SM-4MGPR,MEL-IPI_Pat113-Tumor-SM-53U2Q,Pat113,Melanoma,68,MALE,PR,301,0,52,0,occult,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat115-TP-NT-SM-5X2QS-SM-5X2RA,MEL-IPI_Pat115-Tumor-SM-5X2QS,Pat115,Melanoma,46,MALE,PD,145,0,74,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat117-TP-NT-SM-5X2QU-SM-5X2RC,MEL-IPI_Pat117-Tumor-SM-5X2QU,Pat117,Melanoma,74,MALE,PR,914,1,182,1,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat118-TP-NT-SM-5X2QV-SM-5X2RD,MEL-IPI_Pat118-Tumor-SM-5X2QV,Pat118,Melanoma,43,FEMALE,PD,313,0,120,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat119-TP-NT-SM-7459N-SM-7459Q,MEL-IPI_Pat119-Tumor-SM-7459N,Pat119,Melanoma,61,MALE,PD,808,1,108,1,cutaneous,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat12-TP-NB-SM-7459O-SM-4NFUE,MEL-IPI_Pat12-Tumor-SM-7459O,Pat12,Melanoma,41,MALE,PD,290,0,84,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat121-TP-NT-SM-7459K-SM-5X2RG,MEL-IPI_Pat121-Tumor-SM-7459K,Pat121,Melanoma,47,MALE,PD,122,0,84,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat123-TP-NB-SM-5X2R1-SM-5VWHL,MEL-IPI_Pat123-Tumor-SM-5X2R1,Pat123,Melanoma,49,FEMALE,SD,853,0,544,0,occult,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat124-TP-NB-SM-7459L-SM-5VWHM,MEL-IPI_Pat124-Tumor-SM-7459L,Pat124,Melanoma,78,MALE,PD,146,0,67,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat126-TP-NB-SM-5X2R4-SM-5VWHO,MEL-IPI_Pat126-Tumor-SM-5X2R4,Pat126,Melanoma,77,MALE,PR,641,1,187,1,cutaneous,nodular,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat127-TP-NB-SM-5X2R5-SM-5VWHP,MEL-IPI_Pat127-Tumor-SM-5X2R5,Pat127,Melanoma,24,FEMALE,PD,332,0,120,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat128-TP-NB-SM-5X2R6-SM-5VWHQ,MEL-IPI_Pat128-Tumor-SM-5X2R6,Pat128,Melanoma,30,MALE,PD,113,0,81,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat129-TP-NT-SM-5X2R7-SM-5X2RI,MEL-IPI_Pat129-Tumor-SM-5X2R7,Pat129,Melanoma,18,MALE,PD,539,1,68,1,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat13-TP-NB-SM-4DK19-SM-4NFUF,MEL-IPI_Pat13-Tumor-SM-4DK19,Pat13,Melanoma,78,MALE,PD,732,0,104,0,cutaneous,superficial spreading,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat132-TP-NB-SM-5VWJA-SM-5VWHR,MEL-IPI_Pat132-Tumor-SM-5VWJA,Pat132,Melanoma,81,MALE,PR,676,1,187,1,cutaneous,superficial spreading,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat133-TP-NB-SM-7A14Z-SM-5VWHS,MEL-IPI_Pat133-Tumor-SM-7A14Z,Pat133,Melanoma,75,MALE,PD,542,0,134,0,mucosal,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat134-TP-NB-SM-5VWJC-SM-5VWHT,MEL-IPI_Pat134-Tumor-SM-5VWJC,Pat134,Melanoma,73,MALE,PD,302,0,72,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat135-TP-NB-SM-7A152-SM-5VWHU,MEL-IPI_Pat135-Tumor-SM-7A152,Pat135,Melanoma,29,FEMALE,PD,81,0,73,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat138-TP-NB-SM-7A155-SM-5VWHX,MEL-IPI_Pat138-Tumor-SM-7A155,Pat138,Melanoma,39,FEMALE,SD,1478,0,581,0,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat139-TP-NB-SM-5VWJH-SM-5VWHY,MEL-IPI_Pat139-Tumor-SM-5VWJH,Pat139,Melanoma,58,MALE,PD,99,0,46,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat14-TP-NB-SM-53U3C-SM-4NFUG,MEL-IPI_Pat14-Tumor-SM-53U3C,Pat14,Melanoma,47,FEMALE,PD,163,0,84,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat140-TP-NB-SM-5VWJI-SM-5VWHZ,MEL-IPI_Pat140-Tumor-SM-5VWJI,Pat140,Melanoma,62,MALE,PD,492,0,114,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat143-TP-NB-SM-7A156-SM-5VWI3,MEL-IPI_Pat143-Tumor-SM-7A156,Pat143,Melanoma,71,MALE,PD,153,0,90,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat144-TP-NB-SM-7A157-SM-5VWI4,MEL-IPI_Pat144-Tumor-SM-7A157,Pat144,Melanoma,65,MALE,PR,870,0,731,0,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat147-TP-NB-SM-7A158-SM-5VWI7,MEL-IPI_Pat147-Tumor-SM-7A158,Pat147,Melanoma,63,MALE,PD,224,0,120,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat148-TP-NB-SM-5VWJQ-SM-5VWI8,MEL-IPI_Pat148-Tumor-SM-5VWJQ,Pat148,Melanoma,36,FEMALE,PD,84,0,48,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat15-TP-NB-SM-4DK1B-SM-4NFUH,MEL-IPI_Pat15-Tumor-SM-4DK1B,Pat15,Melanoma,32,MALE,PD,50,0,31,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat151-TP-NB-SM-7A15A-SM-5VWIB,MEL-IPI_Pat151-Tumor-SM-7A15A,Pat151,Melanoma,68,MALE,PD,204,0,106,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat157-TP-NB-SM-7A15B-SM-5VWIH,MEL-IPI_Pat157-Tumor-SM-7A15B,Pat157,Melanoma,69,FEMALE,X,86,0,53,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat159-TP-NB-SM-5VWK2-SM-5VWIJ,MEL-IPI_Pat159-Tumor-SM-5VWK2,Pat159,Melanoma,52,MALE,PD,842,1,100,1,cutaneous,superficial spreading,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat16-TP-NT-SM-53U3E-SM-53U5B,MEL-IPI_Pat16-Tumor-SM-53U3E,Pat16,Melanoma,68,FEMALE,PD,811,0,84,0,cutaneous,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat160-TP-NB-SM-5VWK3-SM-5VWIK,MEL-IPI_Pat160-Tumor-SM-5VWK3,Pat160,Melanoma,79,MALE,PD,152,0,81,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat162-TP-NB-SM-7A15D-SM-5VWIM,MEL-IPI_Pat162-Tumor-SM-7A15D,Pat162,Melanoma,55,FEMALE,PD,211,0,78,0,mucosal,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat163-TP-NB-SM-5VWK6-SM-5VWIN,MEL-IPI_Pat163-Tumor-SM-5VWK6,Pat163,Melanoma,54,MALE,PD,749,1,76,1,occult,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat166-TP-NB-SM-7A15G-SM-5VWIQ,MEL-IPI_Pat166-Tumor-SM-7A15G,Pat166,Melanoma,31,MALE,X,77,0,76,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat167-TP-NB-SM-7A15H-SM-5VWIR,MEL-IPI_Pat167-Tumor-SM-7A15H,Pat167,Melanoma,50,MALE,PD,408,0,84,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat168-TP-NB-SM-5VOAX-SM-5VWIS,MEL-IPI_Pat168-Tumor-SM-5VOAX,Pat168,Melanoma,69,MALE,X,67,0,67,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat17-TP-NB-SM-4DK1D-SM-4NFUJ,MEL-IPI_Pat17-Tumor-SM-4DK1D,Pat17,Melanoma,44,MALE,PD,205,0,85,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat170-TP-NB-SM-5VOAZ-SM-5VWIU,MEL-IPI_Pat170-Tumor-SM-5VOAZ,Pat170,Melanoma,48,MALE,PD,108,0,97,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat171-TP-NB-SM-7A15J-SM-5VWIV,MEL-IPI_Pat171-Tumor-SM-7A15J,Pat171,Melanoma,66,MALE,PD,466,0,85,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat174-TP-NB-SM-5VOB4-SM-5VWIY,MEL-IPI_Pat174-Tumor-SM-5VOB4,Pat174,Melanoma,57,FEMALE,PR,688,1,134,1,cutaneous,nodular,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat175-TP-NB-SM-7A15L-SM-5VWIZ,MEL-IPI_Pat175-Tumor-SM-7A15L,Pat175,Melanoma,66,FEMALE,X,90,0,90,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat18-TP-NT-SM-4DK1E-SM-53U5D,MEL-IPI_Pat18-Tumor-SM-4DK1E,Pat18,Melanoma,55,FEMALE,PD,1134,1,112,0,cutaneous,nodular,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat21-TP-NT-SM-4DK1H-SM-53U5G,MEL-IPI_Pat21-Tumor-SM-4DK1H,Pat21,Melanoma,81,MALE,SD,676,0,558,0,cutaneous,amelanotic,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat24-TP-NT-SM-4DK1K-SM-53U5J,MEL-IPI_Pat24-Tumor-SM-4DK1K,Pat24,Melanoma,74,FEMALE,PR,971,1,658,1,cutaneous,amelanotic nodular,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat27-TP-NB-SM-4DK1N-SM-4NFUT,MEL-IPI_Pat27-Tumor-SM-4DK1N,Pat27,Melanoma,61,MALE,PD,1379,1,139,0,cutaneous,nodular,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat32-TP-NT-SM-53U3T-SM-53U67,MEL-IPI_Pat32-Tumor-SM-53U3T,Pat32,Melanoma,73,MALE,PD,147,0,70,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat39-TP-NB-SM-4DK1Z-SM-4NFV6,MEL-IPI_Pat39-Tumor-SM-4DK1Z,Pat39,Melanoma,67,MALE,CR,1487,1,1487,1,cutaneous,superficial spreading,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat41-TP-NT-SM-4DK22-SM-53U5O,MEL-IPI_Pat41-Tumor-SM-4DK22,Pat41,Melanoma,64,MALE,PD,128,0,54,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat43-TP-NB-SM-4DK24-SM-4NFVA,MEL-IPI_Pat43-Tumor-SM-4DK24,Pat43,Melanoma,75,FEMALE,PD,37,0,37,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat45-TP-NT-SM-4DK26-SM-53U5R,MEL-IPI_Pat45-Tumor-SM-4DK26,Pat45,Melanoma,69,MALE,PD,89,0,61,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat46-TP-NT-SM-53U48-SM-53U5S,MEL-IPI_Pat46-Tumor-SM-53U48,Pat46,Melanoma,37,FEMALE,PD,160,0,36,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat47-TP-NT-SM-4DK28-SM-53U5U,MEL-IPI_Pat47-Tumor-SM-4DK28,Pat47,Melanoma,78,MALE,CR,1106,1,1106,1,cutaneous,superficial spreading,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat49-TP-NT-SM-4DK2A-SM-53U5W,MEL-IPI_Pat49-Tumor-SM-4DK2A,Pat49,Melanoma,36,MALE,SD,1034,1,163,0,cutaneous,nodular,,NA,,clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat50-TP-NT-SM-53U69-SM-53U5X,MEL-IPI_Pat50-Tumor-SM-53U69,Pat50,Melanoma,77,MALE,PD,65,0,65,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat52-TP-NT-SM-4DK2D-SM-53U5Z,MEL-IPI_Pat52-Tumor-SM-4DK2D,Pat52,Melanoma,65,MALE,PD,189,0,68,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat54-TP-NB-SM-4DK2F-SM-4NFVL,MEL-IPI_Pat54-Tumor-SM-4DK2F,Pat54,Melanoma,73,MALE,PD,208,0,81,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat55-TP-NB-SM-4DK2G-SM-4NFVM,MEL-IPI_Pat55-Tumor-SM-4DK2G,Pat55,Melanoma,71,FEMALE,PD,193,0,78,0,cutaneous,lentigo maligna,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat56-TP-NB-SM-4DK2H-SM-4NFVN,MEL-IPI_Pat56-Tumor-SM-4DK2H,Pat56,Melanoma,68,MALE,PD,235,0,96,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat57-TP-NB-SM-4DK2I-SM-4NFVO,MEL-IPI_Pat57-Tumor-SM-4DK2I,Pat57,Melanoma,69,MALE,PD,250,0,68,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat58-TP-NB-SM-4DK2J-SM-4NFVP,MEL-IPI_Pat58-Tumor-SM-4DK2J,Pat58,Melanoma,59,FEMALE,PD,652,0,99,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat59-TP-NB-SM-4DK2K-SM-4NFVQ,MEL-IPI_Pat59-Tumor-SM-4DK2K,Pat59,Melanoma,36,MALE,PD,224,0,76,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat60-TP-NB-SM-4DK2L-SM-4NFVR,MEL-IPI_Pat60-Tumor-SM-4DK2L,Pat60,Melanoma,86,MALE,PD,272,0,89,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat61-TP-NB-SM-4DK2M-SM-4NFVS,MEL-IPI_Pat61-Tumor-SM-4DK2M,Pat61,Melanoma,78,FEMALE,PD,121,0,81,0,cutaneous and eye,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat62-TP-NB-SM-4DK2N-SM-4NFVT,MEL-IPI_Pat62-Tumor-SM-4DK2N,Pat62,Melanoma,76,MALE,PD,602,0,77,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat64-TP-NB-SM-4DK2P-SM-4NFVV,MEL-IPI_Pat64-Tumor-SM-4DK2P,Pat64,Melanoma,83,MALE,PD,106,0,69,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat66-TP-NB-SM-4DK2R-SM-4NFVX,MEL-IPI_Pat66-Tumor-SM-4DK2R,Pat66,Melanoma,44,FEMALE,SD,653,1,598,0,cutaneous,superficial spreading,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat67-TP-NB-SM-4DK2S-SM-4NFVY,MEL-IPI_Pat67-Tumor-SM-4DK2S,Pat67,Melanoma,40,MALE,PD,79,0,79,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat71-TP-NB-SM-4DK2W-SM-4NFW3,MEL-IPI_Pat71-Tumor-SM-4DK2W,Pat71,Melanoma,64,MALE,PD,137,0,98,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat73-TP-NB-SM-4DK2Y-SM-4NFW5,MEL-IPI_Pat73-Tumor-SM-4DK2Y,Pat73,Melanoma,71,MALE,PR,442,0,408,0,cutaneous,nodular,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat74-TP-NB-SM-4DK2Z-SM-4NFW6,MEL-IPI_Pat74-Tumor-SM-4DK2Z,Pat74,Melanoma,73,MALE,PD,193,0,80,0,cutaneous,superficial spreading,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat76-TP-NB-SM-4DK32-SM-4NFW8,MEL-IPI_Pat76-Tumor-SM-4DK32,Pat76,Melanoma,74,MALE,PD,139,0,70,0,occult,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat77-TP-NT-SM-4DK33-SM-53U63,MEL-IPI_Pat77-Tumor-SM-4DK33,Pat77,Melanoma,22,MALE,PR,1029,1,241,1,occult,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat79-TP-NB-SM-53U2S-SM-4NFWB,MEL-IPI_Pat79-Tumor-SM-53U2S,Pat79,Melanoma,69,MALE,PR,801,0,405,0,cutaneous,superficial spreading,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat80-TP-NT-SM-4DK36-SM-53U53,MEL-IPI_Pat80-Tumor-SM-4DK36,Pat80,Melanoma,47,MALE,SD,724,0,182,0,cutaneous,nodular,,NA,,clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat81-TP-NB-SM-4DK37-SM-4NFWD,MEL-IPI_Pat81-Tumor-SM-4DK37,Pat81,Melanoma,54,FEMALE,PD,628,0,76,0,mucosal,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat82-TP-NT-SM-4DK38-SM-53U55,MEL-IPI_Pat82-Tumor-SM-4DK38,Pat82,Melanoma,54,FEMALE,PD,104,0,75,0,cutaneous,nodular,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat83-TP-NT-SM-53U2W-SM-53U56,MEL-IPI_Pat83-Tumor-SM-53U2W,Pat83,Melanoma,22,MALE,PD,1027,1,107,0,cutaneous,blue nevus,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat85-TP-NB-SM-53U2Y-SM-4NFWH,MEL-IPI_Pat85-Tumor-SM-53U2Y,Pat85,Melanoma,83,MALE,PD,458,0,83,0,cutaneous,desmoplastic,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat86-TP-NT-SM-4DK3C-SM-53U59,MEL-IPI_Pat86-Tumor-SM-4DK3C,Pat86,Melanoma,54,MALE,SD,293,0,153,0,cutaneous,acral lentiginous,,NA,,no clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat87-TP-NT-SM-4DK3D-SM-53U5A,MEL-IPI_Pat87-Tumor-SM-4DK3D,Pat87,Melanoma,47,MALE,PD,1093,1,151,0,cutaneous,acral lentiginous,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat90-TP-NB-SM-4DK3G-SM-4NFWM,MEL-IPI_Pat90-Tumor-SM-4DK3G,Pat90,Melanoma,59,MALE,PR,1005,1,669,1,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat98-TP-NT-SM-4CU6L-SM-53U4K,MEL-IPI_Pat98-Tumor-SM-4CU6L,Pat98,Melanoma,57,FEMALE,PD,140,0,77,0,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+MEL-IPI_Pat99-TP-NT-SM-4CU6M-SM-53U4L,MEL-IPI_Pat99-Tumor-SM-4CU6M,Pat99,Melanoma,36,FEMALE,PD,352,0,82,0,uveal,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NI9507_T_N,NI9507_T,NI9507,Lung,41,FEMALE,PD,57,1,57,0,adenocarcinoma,,Current,2.25,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+NR1867_T_N,NR1867_T,NR1867,Melanoma,NA,MALE,PD,547.5,1,161,1,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR2137_T_N,NR2137_T,NR2137,Melanoma,NA,MALE,PD,292,1,56,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR3549_T_N,NR3549_T,NR3549,Melanoma,NA,MALE,PD,182.5,1,112,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR4018_T_N,NR4018_T,NR4018,Melanoma,NA,MALE,PD,109.5,1,77,1,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR4045_T_N,NR4045_T,NR4045,Melanoma,NA,MALE,PD,620.5,1,77,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR4083_T_N,NR4083_T,NR4083,Melanoma,NA,MALE,PD,84,1,84,1,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR4631_T_N,NR4631_T,NR4631,Melanoma,NA,MALE,PD,182.5,1,91,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR4810_T_N,NR4810_T,NR4810,Melanoma,NA,FEMALE,PD,146,1,84,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR4949_T_N,NR4949_T,NR4949,Melanoma,NA,FEMALE,PD,255.5,1,161,1,,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR8815_T_N,NR8815_T,NR8815,Melanoma,NA,FEMALE,PD,438,1,63,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR9445_T_N,NR9445_T,NR9445,Melanoma,NA,MALE,PD,73,1,56,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,yes
+NR9449_T_N,NR9449_T,NR9449,Melanoma,NA,FEMALE,PD,219,1,70,1,cutaneous,,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR9521_T_N,NR9521_T,NR9521,Melanoma,NA,MALE,PD,985.5,1,84,1,cutaneous,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR9705_T_N,NR9705_T,NR9705,Melanoma,NA,FEMALE,PD,438,1,203,1,cutaneous,acral lentiginous,,NA,,no clinical benefit,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+NR9765_T_N,NR9765_T,NR9765,Melanoma,NA,FEMALE,PD,766.5,1,154,1,cutaneous,,,NA,,long-term survival,no clinical benefit,no clinical benefit,anti-CTLA-4,no
+PR12117_T_N,PR12117_T,PR12117,Melanoma,NA,MALE,PR,584,0,511,1,cutaneous,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+PR4035_T_N,PR4035_T,PR4035,Melanoma,NA,MALE,PR,1533,1,1526,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+PR4046_T_N,PR4046_T,PR4046,Melanoma,NA,MALE,PR,770,1,770,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+PR4077_T_N,PR4077_T,PR4077,Melanoma,NA,MALE,PR,2226.5,1,2212,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+PR4091_T_N,PR4091_T,PR4091,Melanoma,NA,FEMALE,PR,2198,1,2198,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+PR4092_T_N,PR4092_T,PR4092,Melanoma,NA,FEMALE,PR,2226.5,1,2205,1,,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-CTLA-4,no
+R7495_T_N,R7495_T,R7495,Lung,63,MALE,PD,42,1,42,0,adenocarcinoma,,Former,73.5,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+RH090935_T_N,RH090935_T,RH090935,Lung,78,FEMALE,PR,316,1,316,1,adenocarcinoma,,Former,60,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+RI1933_T_N,RI1933_T,RI1933,Lung,60,FEMALE,PR,504,1,504,1,adenocarcinoma,,Former,21,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+RO3338_T_N,RO3338_T,RO3338,Lung,71,MALE,PD,63,1,63,0,adenocarcinoma,,Former,20,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SA9755_T_N,SA9755_T,SA9755,Lung,63,FEMALE,PR,255,1,255,1,NSCLC NOS,,Former,36,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+SARC-Sarcoma-PD1_responder-01-TM-NB-SM-7KMQP-SM-7KMQR,SARC-Sarcoma-PD1_responder-01-Tumor-SM-7KMQP,SARC-PD1,Sarcoma,NA,FEMALE,CR,730,1,210,0,leiomyosarcoma,,,NA,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+SB010944_T_N,SB010944_T,SB010944,Lung,68,MALE,PR,830,1,830,1,squamous cell carcinoma,,Never,0,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+SC0899_T_N,SC0899_T,SC0899,Lung,64,FEMALE,PR,383,1,383,1,adenocarcinoma,,Current,25,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+SC6470_T_N,SC6470_T,SC6470,Lung,59,MALE,SD,252,1,252,0,adenocarcinoma,,Current,15,,no clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+SD0346_T_N,SD0346_T,SD0346,Melanoma,NA,FEMALE,SD,1058.5,0,476,1,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,yes
+SD1494_T_N,SD1494_T,SD1494,Melanoma,NA,MALE,SD,730,1,357,1,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+SD2051_T_N,SD2051_T,SD2051,Melanoma,NA,FEMALE,SD,292,0,112,1,cutaneous,acral lentiginous,,NA,,no clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,yes
+SD2056_T_N,SD2056_T,SD2056,Melanoma,NA,FEMALE,SD,1456,1,1456,1,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+SD5038_T_N,SD5038_T,SD5038,Melanoma,NA,MALE,SD,438,0,168,1,cutaneous,,,NA,,clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+SD5118_T_N,SD5118_T,SD5118,Melanoma,NA,FEMALE,SD,985.5,0,168,1,cutaneous,acral lentiginous,,NA,,clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+SD5934_T_N,SD5934_T,SD5934,Melanoma,NA,MALE,SD,584,0,98,1,cutaneous,,,NA,,clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+SD6336_T_N,SD6336_T,SD6336,Melanoma,NA,MALE,SD,2527,1,2527,1,cutaneous,,,NA,,clinical benefit,stable disease,clinical benefit,anti-CTLA-4,no
+SD6494_T_N,SD6494_T,SD6494,Melanoma,NA,FEMALE,SD,255.5,0,91,1,,,,NA,,no clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+SD7357_T_N,SD7357_T,SD7357,Melanoma,NA,FEMALE,SD,730,0,147,1,,,,NA,,clinical benefit,stable disease,no clinical benefit,anti-CTLA-4,no
+SR070761_T_N,SR070761_T,SR070761,Lung,51,FEMALE,PD,103,1,103,0,squamous cell carcinoma,,Former,2.5,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1002-TP-NB-SM-AOL41-SM-A46NE,SU2C_Lung-SU2C-DFCI-LUAD-1002-Tumor-SM-AOL41,SU2C-1002,Lung,50,FEMALE,PD,485,1,58,0,adenocarcinoma,,never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1003-TP-NB-SM-AOL4D-SM-A46NF,SU2C_Lung-SU2C-DFCI-LUAD-1003-Tumor-SM-AOL4D,SU2C-1003,Lung,77,FEMALE,PD,132,0,56,0,adenocarcinoma,,never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1004-TP-NB-SM-AOL4P-SM-A46NG,SU2C_Lung-SU2C-DFCI-LUAD-1004-Tumor-SM-AOL4P,SU2C-1004,Lung,61,MALE,SD,363,0,111,0,adenocarcinoma,,former,22,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1005-TP-NB-SM-AOL52-SM-A46NH,SU2C_Lung-SU2C-DFCI-LUAD-1005-Tumor-SM-AOL52,SU2C-1005,Lung,72,FEMALE,PD,339,0,34,0,adenocarcinoma,,never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1006-TP-NB-SM-AOL5E-SM-A46NI,SU2C_Lung-SU2C-DFCI-LUAD-1006-Tumor-SM-AOL5E,SU2C-1006,Lung,74,FEMALE,PD,182,1,182,0,adenocarcinoma,,current,50,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1010-TM-NB-SM-AOL6S-SM-A46NM,SU2C_Lung-SU2C-DFCI-LUAD-1010-Tumor-SM-AOL6S,SU2C-1010,Lung,65,MALE,SD,302,0,119,0,adenocarcinoma,,former,16,,no clinical benefit,stable disease,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1011-TM-NB-SM-AOL75-SM-A46NN,SU2C_Lung-SU2C-DFCI-LUAD-1011-Tumor-SM-AOL75,SU2C-1011,Lung,76,MALE,PD,177,0,56,0,adenocarcinoma,,current,25,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1013-TP-NB-SM-AOL7V-SM-A46NP,SU2C_Lung-SU2C-DFCI-LUAD-1013-Tumor-SM-AOL7V,SU2C-1013,Lung,61,MALE,PD,32,0,32,0,adenocarcinoma,,current,20,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1016-TM-NB-SM-AOL8W-SM-A46NS,SU2C_Lung-SU2C-DFCI-LUAD-1016-Tumor-SM-AOL8W,SU2C-1016,Lung,72,FEMALE,SD,449,1,230,0,squamous cell carcinoma,,former,50,,clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1017-TM-NB-SM-AOL99-SM-A46NT,SU2C_Lung-SU2C-DFCI-LUAD-1017-Tumor-SM-AOL99,SU2C-1017,Lung,54,FEMALE,PR,433,1,433,1,adenocarcinoma,,current,68,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+SU2C_Lung-SU2C-DFCI-LUAD-1018-TP-NB-SM-AOL9H-SM-A46NU,SU2C_Lung-SU2C-DFCI-LUAD-1018-Tumor-SM-AOL9H,SU2C-1018,Lung,52,FEMALE,PD,96,0,35,0,adenocarcinoma,,never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,yes
+SU2C_Lung-SU2C-DFCI-LUAD-1020-TM-NB-SM-AOL3C-SM-A46NC,SU2C_Lung-SU2C-DFCI-LUAD-1020-Tumor-SM-AOL3C,SU2C-1020,Lung,43,FEMALE,PR,897,1,897,1,adenocarcinoma,,never,0,,clinical benefit,clinical benefit,clinical benefit,anti-PD-1/anti-PD-L1,no
+WA7899_T_N,WA7899_T,WA7899,Lung,49,MALE,PD,57,1,57,0,adenocarcinoma,,Never,0,,no clinical benefit,no clinical benefit,no clinical benefit,anti-PD-1/anti-PD-L1,no
+Y2087_T_N,Y2087_T,Y2087,Lung,68,FEMALE,SD,252,1,252,0,adenocarcinoma,,Never,0,,no clinical benefit,stable disease,clinical benefit,anti-PD-1/anti-PD-L1,no
